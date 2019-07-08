@@ -1,0 +1,16 @@
+<svg width="421" height="151" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#2da956" id="canvas_background" height="153" width="423" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="92" id="svg_1" y="107.601563" x="67.5" stroke-width="0" fill="#ffffff">TIN</text>
+  <rect stroke="null" id="svg_2" height="80.00001" width="139.999995" y="35.60156" x="219.500001" stroke-width="1.5" fill="#ffffff"/>
+  <text transform="matrix(1,0,0,1,0,0) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="92" id="svg_4" y="107.5" x="223.03125" stroke-width="0" fill="#2da956">IoT</text>
+ </g>
+</svg>
